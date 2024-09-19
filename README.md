@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi ??, I'm R.Hamsathvani</h1>
