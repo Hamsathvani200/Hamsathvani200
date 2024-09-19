@@ -1,9 +1,9 @@
-[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
+[![MasterHead]([https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif))](https://rishavchanda.io)
 
 
 <h1 align="center">Hi ??, I'm R.Hamsathvani</h1>
 <h3 align="center">A passionate full stack developer from Srilanka</h3>
-<img align="Right" alt="coding"width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding"width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamsathvani200&label=Profile%20views&color=0e75b6&style=flat" alt="hamsathvani200" /> </p>
 
