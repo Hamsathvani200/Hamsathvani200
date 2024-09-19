@@ -1,4 +1,4 @@
-[![MasterHead]((https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif))](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi ??, I'm R.Hamsathvani</h1>
