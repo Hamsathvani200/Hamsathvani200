@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)](https://rishavchanda.io)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi ??, I'm R.Hamsathvani</h1>
